@@ -20,6 +20,12 @@ ol {
     padding: 8px;
 }
 
+a {
+    font-weight: 600;
+    font-weight: 600;
+    text-decoration: none;
+}
+
 .bajada-titulo {
     text-align: center;
     margin: 0;
