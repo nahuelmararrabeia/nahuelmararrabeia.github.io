@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    padding: 8px 0;
+    margin-bottom: 16px;
     background-color: forestgreen;
     color: #fa2c2c;
 }
@@ -15,10 +15,6 @@ ol {
     margin: 0;
     background-color: lightgrey;
     padding: 8px;
-}
-
-nav {
-    margin-bottom: 16px;
 }
 
 .contenedor {
