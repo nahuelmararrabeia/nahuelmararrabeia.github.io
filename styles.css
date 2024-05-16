@@ -4,7 +4,7 @@ body {
 
 header {
     margin-bottom: 16px;
-    background-color: forestgreen;
+    background-image: url(https://img.freepik.com/foto-gratis/primer-plano-deliciosa-pizza_23-2150852113.jpg);
     color: #fa2c2c;
 }
 
@@ -13,7 +13,6 @@ ol {
     display: flex;
     justify-content: space-around;
     margin: 0;
-    background-color: lightgrey;
     padding: 8px;
 }
 
