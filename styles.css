@@ -9,6 +9,10 @@ header {
     color: #fa2c2c;
 }
 
+ol {
+    list-style: none;
+}
+
 .contenedor {
     width: 100%;
     height: 100%;
