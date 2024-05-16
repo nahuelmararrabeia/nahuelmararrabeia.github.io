@@ -1,0 +1,10 @@
+:host {
+    /* .img-menu {
+        width: 50;
+    } */
+
+    .image-container {
+        display: flex;
+        flex-direction: row;
+    }
+}
