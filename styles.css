@@ -10,6 +10,7 @@ body {
 
 .titulo {
     text-align: center;
+    margin: 0;
 }
 
 .image-container {
