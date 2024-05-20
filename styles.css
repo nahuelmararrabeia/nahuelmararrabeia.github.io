@@ -4,7 +4,7 @@ body {
 
 header {
     margin-bottom: 16px;
-    background: url(https://img.freepik.com/foto-gratis/primer-plano-deliciosa-pizza_23-2150852113.jpg) no-repeat center center fixed;
+    background: url(https://img.freepik.com/vector-gratis/ilustracion-bandera-italia_53876-27098.jpg?size=626&ext=jpg&ga=GA1.1.1687694167.1715472000&semt=ais_user) no-repeat center center fixed;
     color: black;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -49,8 +49,10 @@ a {
     justify-content: center;
     align-items: center;
     gap: 16px;
+}
 
-    @media (max-height: 650px) {
+@media (max-height: 650px) {
+    .section-container {
         flex-direction: column;
     }
 }
