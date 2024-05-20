@@ -4,7 +4,7 @@ body {
 
 header {
     margin-bottom: 16px;
-    background: url(https://img.freepik.com/vector-gratis/ilustracion-bandera-italia_53876-27098.jpg?size=626&ext=jpg&ga=GA1.1.1687694167.1715472000&semt=ais_user) no-repeat center center fixed;
+    background: url(https://img.freepik.com/vector-gratis/ilustracion-bandera-italia_53876-27098.jpg?size=626&ext=jpg&ga=GA1.1.1687694167.1715472000&semt=ais_user);
     color: black;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -51,7 +51,7 @@ a {
     gap: 16px;
 }
 
-@media (max-height: 650px) {
+@media (max-width: 650px) {
     .section-container {
         flex-direction: column;
     }
